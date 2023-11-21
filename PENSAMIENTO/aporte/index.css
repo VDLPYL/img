@@ -8,7 +8,10 @@ b {
     text-decoration: none;
     color: red;
 }
-
+c {
+    text-decoration: none;
+    color: hsl(31, 90%, 49%);
+}
 
 v {
     text-decoration: none;
